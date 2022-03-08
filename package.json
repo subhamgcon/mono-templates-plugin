@@ -1,0 +1,15 @@
+{
+	"name": "Templates plugin",
+	"description": "Custom templates plugin",
+	"version": "1.0.0",
+	"author": "Subham Ghosh",
+	"repository": "https://github.com/subhamgcon/mono-templates-plugin.git",
+	"monoklePlugin": {
+		"id": "com.github.subhamgcon.plugin.templates",
+		"helpUrl": "https://github.com/subhamgcon/mono-templates-plugin.git",
+		"modules": [{
+			"type": "template",
+			"path": "basic-pod-template"
+		}]
+	}
+}
